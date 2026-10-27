@@ -97,9 +97,9 @@ The AI model analyzes chat context to identify recurring misconceptions and upda
 **Team Name:** ProtoStack  
 
 **Team Members:**
-- Vansh 
-- Mayank gupta 
-- Rahul   
+- Vansh  
+- Rahul
+- Mayank Gupta   
 
 ---
 
